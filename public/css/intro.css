@@ -118,6 +118,7 @@
     padding: 90px 0;
     background: #b9134f;
     top: -30px;
+    position: fixed;
   }
   .span{
     color: #b9134f;
