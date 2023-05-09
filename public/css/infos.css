@@ -450,3 +450,13 @@
 canvas {
   border: 1px solid black;
 }
+.titreP{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titreP h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
