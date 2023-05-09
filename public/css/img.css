@@ -131,8 +131,8 @@
     width: 1130px;
     max-width: 85%;
     margin: 0 auto;
-    display: flex;
     align-items: center;
+    text-align: center;
     justify-content: space-around;
   }
   .text{
@@ -396,4 +396,12 @@
     }
 .icon-textes a{
   color: white;
+}
+.titreP{
+  margin-bottom: 0 10px;
+  align-items: center;
+  text-align: center;
+}
+.titreP h2{
+color: #2e4369;
 }

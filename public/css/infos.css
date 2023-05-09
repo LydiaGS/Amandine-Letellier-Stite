@@ -132,6 +132,7 @@
     max-width: 85%;
     margin: 0 auto;
     align-items: center;
+    text-align: center;
     justify-content: space-around;
   }
   .text{
@@ -459,4 +460,5 @@ canvas {
   display: flex;
   justify-content: center;
   align-items: center;
+  color: #2e4369;
 }
